@@ -159,3 +159,12 @@ sharing = true
     api_key = ""
     index_name = ""
     show_logo = false
+
+# Content Management System
+[cms]
+ # Enable the admin panel. See https://wowchemy.com/docs/install/
+ netlify_cms = true
+
+# Icon Pack Extensions
+[icon.pack]
+ ai = true  # Enable the Academicons icon pack https://jpswalsh.github.io/academicons/
